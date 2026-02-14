@@ -47,3 +47,11 @@ The backend follows a clean modular structure:
 - Frontend UI enhancement
 - Deployment & production scaling
 - Advanced memory ranking strategies
+
+## 🌐 Live Backend
+
+The backend server is deployed and accessible at:
+
+🔗 https://chatfusionx.onrender.com
+
+You can use this endpoint to test API routes and AI-powered chat functionality.
