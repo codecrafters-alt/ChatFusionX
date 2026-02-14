@@ -10,7 +10,7 @@ app.use(cookieParser());
 //Routes
 app.get("/", (req, res) => {
   res.send("ChatFusionX is up and running");
-}
+});
 app.use("/api/auth", authRoutes);
 //end-point: /api/auth/register
 app.use("/api/chat", chatRoutes);
